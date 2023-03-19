@@ -1,0 +1,42 @@
+
+.mynav {
+    background-color:blue ;
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+.mynav li {
+    display: inline;
+    padding: 40px;
+}
+
+.mynav ul li a{
+    padding: 15px 10px;
+    text-align: center;
+    display: inline;
+    text-decoration:none ;
+    color: red;
+    font-size: 40px;
+}
+
+body {
+    font-family: roboto;
+}    
+
+.worksection {
+    background-color: white;
+}
+
+h3 {
+    background-color: red;
+    border: none;
+}
+
+h3:hover {
+    background-color: blue;
+}
+
+.col-1:hover {
+    background-color: white;
+}
